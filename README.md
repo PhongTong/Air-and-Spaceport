@@ -1,5 +1,5 @@
 # Design of a Commercial Air & Spaceport for 2050 Operations
-In this repository, we provide the Solidworks files that accompany the paper titled "Design of Commercial Air & Spaceport for 2050 Operations". Individual CAD models are available in the [CAD Files](https://github.com/andyeske/MARTEMIS/tree/main/CAD%20Files) folder.
+In this repository, we provide the Solidworks files that accompany the paper titled "Design of Commercial Air & Spaceport for 2050 Operations". Individual CAD models are available in the [CAD Files](https://github.com/andyeske/Air-and-Spaceport/tree/main/CAD%20Files) folder.
 
 ## CAD Models
  
@@ -53,7 +53,7 @@ In this repository, we provide the Solidworks files that accompany the paper tit
 
 **Description:** To be added.
 
-**CAD Model Name:** To be added.
+**CAD Model Name:** To be added. The CAD files for the Starship and Super Heavy can be found in the NASA RASC-AL Challenge Project [MARTEMIS](https://github.com/andyeske/MARTEMIS) GitHub page.
 
 ([ back to top ](#back_to_top))
 
