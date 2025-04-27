@@ -15,7 +15,7 @@ In this repository, we provide the Solidworks files that accompany the paper tit
 
 **Description:** Telescopic glass Jetway design, inspired from the glass design developed by thyssenkrupp.
 
-**CAD Model Name:** The CAD files can be found in the [Jetway](https://github.com/andyeske/Air-and-Spaceport/tree/main/CAD%20Files/Jetway) folder, within [CAD Files](https://github.com/andyeske/MARTEMIS/tree/main/CAD%20Files). The assembly file is titled Jetway Assembly.SLDASM, and consists of 10 subcomponents named JetwayX.SLDPRT (X = 1 through 10) plus the generic Platform.SLDPRT part. This jetway assembly is fed into the larger airport assembly file, slotting each piece as a mosaic (as shown below). 
+**CAD Model Name:** The CAD files can be found in the [Jetway](https://github.com/andyeske/Air-and-Spaceport/tree/main/CAD%20Files/Jetway) folder, within [CAD Files](https://github.com/andyeske/Air-and-Spaceport/tree/main/CAD%20Files) folder. The assembly file is titled Jetway Assembly.SLDASM, and consists of 10 subcomponents named JetwayX.SLDPRT (X = 1 through 10) plus the generic Platform.SLDPRT part. This jetway assembly is fed into the larger airport assembly file, slotting each piece as a mosaic (as shown below). 
 
 <p align="left">
 <img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Jetway%201.png" width="500"> 
