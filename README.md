@@ -1,5 +1,5 @@
 # Design of a Commercial Air & Spaceport for 2050 Operations
-In this repository, we provide the Solidworks files that accompany the paper titled "Design of Commercial Air &amp Spaceport for 2050 Operations". Individual CAD models are available in the [CAD Files](https://github.com/andyeske/MARTEMIS/tree/main/CAD%20Files) folder.
+In this repository, we provide the Solidworks files that accompany the paper titled "Design of Commercial Air & Spaceport for 2050 Operations". Individual CAD models are available in the [CAD Files](https://github.com/andyeske/MARTEMIS/tree/main/CAD%20Files) folder.
 
 ## CAD Models
  
