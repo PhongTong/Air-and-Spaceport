@@ -32,7 +32,7 @@ In this repository, we provide the Solidworks files that accompany the paper tit
 <p align="left">
 <img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Jeyway%203.png" width="500"> 
 
-**Figure 3:** _Jetway Assembly, isometric view, accomodating an A320NEO. The aircraft model was borrowed from [GradCAD](https://grabcad.com/library/airbus-a320neo-1)_, and was scaled to its true dimensions.
+**Figure 3:** _Jetway Assembly, isometric view, accomodating an A320NEO. The aircraft model was borrowed from [GradCAD](https://grabcad.com/library/airbus-a320neo-1)_, and was modified to scale it to its true dimensions. The modified version is available [here](https://mitprod-my.sharepoint.com/:u:/g/personal/andyeske_mit_edu/EU3BBaGzz21Ol-wAOqSJpiABEUa_MX_J59f_II93EeJ3Pg?e=gCwyBt).
 </p>
 
 ([ back to top ](#back_to_top))
