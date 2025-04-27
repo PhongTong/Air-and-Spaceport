@@ -5,17 +5,17 @@ In this repository, we provide the Solidworks files that accompany the work titl
  
 ### Table of Contents
 
-1. [ Jetway ](#1400s)
-2. [ Airport ](#joint)
-3. [ Air & Spaceport ](#airlocks)
+1. [ Jetway ](#jetway)
+2. [ Airport ](#airport)
+3. [ Air & Spaceport ](#airspace)
 
 ---
-<a name="1400s"></a>
-### 1: 1400s Modules
+<a name="jetway"></a>
+### 1: Jetway
 
-**Description:** Main lunar habitat module, inspired largely by Sierra Aerospace's [LIFE 1400](https://www.sierraspace.com/commercial-space-stations/life-space-habitat/) design (hence, the name of the module!). 
+**Description:** Telescopic glass Jetway design, inspired from the glass design developed by thyssenkrupp.
 
-**CAD Model Name:** 1400.SLDPRT (Main Module), 1400_interior_v1.SLDPRT (Cross sectional view with open walls), 1400_interior_v2.SLDPRT (Cross sectional view with closed walls), 1400_interior_v3.SLDPRT (the model with the furniture and 3 bedrooms, within the 1400_interior.zip file located in the following [folder](https://mitprod-my.sharepoint.com/personal/andyeske_mit_edu/_layouts/15/onedrive.aspx?login_hint=andyeske%40mit%2Eedu&id=%2Fpersonal%2Fandyeske%5Fmit%5Fedu%2FDocuments%2FAndy%20MIT%2FMiscellaneous%2FMARTEMIS&view=0)), and Radiation Shield.SLDASM (1400 module enclosed by a radiation shield made of hexagonal structures, available within the Radiation Shield.zip file also in this [folder](https://mitprod-my.sharepoint.com/personal/andyeske_mit_edu/_layouts/15/onedrive.aspx?login_hint=andyeske%40mit%2Eedu&id=%2Fpersonal%2Fandyeske%5Fmit%5Fedu%2FDocuments%2FAndy%20MIT%2FMiscellaneous%2FMARTEMIS&view=0)).
+**CAD Model Name:** The CAD files can be found in the [Jetway](https://github.com/andyeske/Air-and-Spaceport/tree/main/CAD%20Files/Jetway) folder, within [CAD Files](https://github.com/andyeske/MARTEMIS/tree/main/CAD%20Files). The assembly file is titled Jetway Assembly.SLDASM, and consists of 10 subcomponents named JetwayX.SLDPRT (X = 1 through 10) plus the generic Platform.SLDPRT part. This jetway assembly is fed into the larger airport assembly file, slotting each piece as a mosaic (as shown below). 
 
 <p align="left">
 <img src="https://github.com/andyeske/MARTEMIS/blob/main/Renders/1400s.JPG" width="500"> 
@@ -26,22 +26,24 @@ In this repository, we provide the Solidworks files that accompany the work titl
 ([ back to top ](#back_to_top))
 
 ---
-<a name="joint"></a>
-### 2: Module Joints
+<a name="airport"></a>
+### 2: Airport
+
+**Description:** To be added.
+
+**CAD Model Name:** To be added. The design aircraft for the airport is the 787-9, thus guiding all the relevant dimensioning and separation standards. According to the ICAO's [Doc 9157 Aerodrom Design Manual](https://skybrary.aero/sites/default/files/bookshelf/3090.pdf), 
+
+([ back to top ](#back_to_top))
+
+---
+<a name="airspace"></a>
+### 3: Air & Spaceport
 
 **Description:** To be added.
 
 **CAD Model Name:** To be added.
 
 ([ back to top ](#back_to_top))
-
----
-<a name="airlocks"></a>
-### 3: Airlocks
-
-**Description:** To be added.
-
-**CAD Model Name:** To be added.
 
 ## Authors
 
