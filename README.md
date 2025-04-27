@@ -18,9 +18,21 @@ In this repository, we provide the Solidworks files that accompany the paper tit
 **CAD Model Name:** The CAD files can be found in the [Jetway](https://github.com/andyeske/Air-and-Spaceport/tree/main/CAD%20Files/Jetway) folder, within [CAD Files](https://github.com/andyeske/MARTEMIS/tree/main/CAD%20Files). The assembly file is titled Jetway Assembly.SLDASM, and consists of 10 subcomponents named JetwayX.SLDPRT (X = 1 through 10) plus the generic Platform.SLDPRT part. This jetway assembly is fed into the larger airport assembly file, slotting each piece as a mosaic (as shown below). 
 
 <p align="left">
-<img src="https://github.com/andyeske/MARTEMIS/blob/main/Renders/1400s.JPG" width="500"> 
+<img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Jetway%201.png" width="500"> 
 
-**Figure 2:** _Isolated 1400 Module, exterior view_.
+**Figure 1:** _Jetway Assembly, isometric view_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Jetway%202.png" width="500"> 
+
+**Figure 2:** _Jetway Assembly, front view_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Jeyway%203.png" width="500"> 
+
+**Figure 3:** _Jetway Assembly, isometric view, accomodating an A320NEO. The aircraft model was borrowed from [GradCAD](https://grabcad.com/library/airbus-a320neo-1)_, and was scaled to its true dimensions.
 </p>
 
 ([ back to top ](#back_to_top))
