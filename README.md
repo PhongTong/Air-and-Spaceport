@@ -60,4 +60,4 @@ In this repository, we provide the Solidworks files that accompany the paper tit
 ## Authors
 
 Andy Eskenazi, Department of Aeronautics and Astronautics <br />
-Massachusetts Institute of Technology, 2024 <br />
+Massachusetts Institute of Technology, 2025 <br />
