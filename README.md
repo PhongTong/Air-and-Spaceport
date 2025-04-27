@@ -1,5 +1,5 @@
-# Design of a Commercial Air & Spaceport for 2050 
-In this repository, we provide the Solidworks files that accompany the work titled "Design of Commercial Air &amp Spaceport for 2050". Individual CAD models are available in the [CAD Files](https://github.com/andyeske/MARTEMIS/tree/main/CAD%20Files) folder.
+# Design of a Commercial Air & Spaceport for 2050 Operations
+In this repository, we provide the Solidworks files that accompany the paper titled "Design of Commercial Air &amp Spaceport for 2050 Operations". Individual CAD models are available in the [CAD Files](https://github.com/andyeske/MARTEMIS/tree/main/CAD%20Files) folder.
 
 ## CAD Models
  
@@ -31,7 +31,7 @@ In this repository, we provide the Solidworks files that accompany the work titl
 
 **Description:** To be added.
 
-**CAD Model Name:** To be added. The design aircraft for the airport is the 787-9, thus guiding all the relevant dimensioning and separation standards. According to the ICAO's [Doc 9157 Aerodrom Design Manual](https://skybrary.aero/sites/default/files/bookshelf/3090.pdf), 
+**CAD Model Name:** To be added. The design aircraft for the airport is the 787-9 (ICAO 4D classification). All the relevant dimensioning and separation standards were extracted from the ICAO's [Annex 14](https://github.com/andyeske/Air-and-Spaceport/blob/main/Documents/ICAO%20Annex%2014.pdf) and Document 9157 [Part 1](https://github.com/andyeske/Air-and-Spaceport/blob/main/Documents/ICAO%20Doc%209157%20-%20Part%201.pdf) and [Part 2](https://github.com/andyeske/Air-and-Spaceport/blob/main/Documents/ICAO%20Doc%209157%20-%20Part%202.pdf), as elaborated in the paper.
 
 ([ back to top ](#back_to_top))
 
