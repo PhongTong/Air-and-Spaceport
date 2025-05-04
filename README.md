@@ -45,7 +45,7 @@ In this repository, we provide the Solidworks files that accompany the paper tit
 
 **Description:** Proposed airport design for the "Air & Spaceport" concept. The CAD model for the airport constitutes a medium-fidelity level of detail, including features such as a maintenance hangar, cargo terminal, central transportation hub, and fuel tanks, but lacking building interiors. Much of the tarmac design was inspired from pictures of Boston Logan, while the airport terminal itself resembles no particular airport.
 
-**Recording:** To be added.
+**Recording:** https://www.youtube.com/watch?v=7krY4PoerCE.
 
 **CAD Model Name:** The CAD files for the airport can be found in the [Airport Assembly](https://mitprod-my.sharepoint.com/:f:/g/personal/andyeske_mit_edu/EgczOnLIbxFBkocVdgd9WSYBuAGLBS77wR-opz6xtKQz4Q?e=bSjd7i) folder, which is external to the Github due to the file weight. Besides the Jetway Assembly from above, the airport assembly consists of seven subcomponents: Airport Tarmac.SLDPRT, Airport Terminal.SLDPRT, Cargo.SLDPRT (for the Cargo Terminal), Hangar.SLDPRT, Hub.SLDPRT (for the central terminal node), Platform.SLDPRT (for the remote stands), and Spaceport.SLPRT. The design aircraft for the airport is the 787-9 (ICAO 4D classification). All the relevant dimensioning and separation standards were extracted from the ICAO's [Annex 14](https://github.com/andyeske/Air-and-Spaceport/blob/main/Documents/ICAO%20Annex%2014.pdf) and Document 9157 [Part 1](https://github.com/andyeske/Air-and-Spaceport/blob/main/Documents/ICAO%20Doc%209157%20-%20Part%201.pdf) and [Part 2](https://github.com/andyeske/Air-and-Spaceport/blob/main/Documents/ICAO%20Doc%209157%20-%20Part%202.pdf), as elaborated in the paper.
 
