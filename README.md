@@ -98,6 +98,18 @@ In this repository, we provide the Solidworks files that accompany the paper tit
 **Figure 11:** _Spaceport Terminal, isometric view_.
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Airport%20Layout%20Drawing.png" width="500"> 
+
+**Figure 12:** _Airport Layout Drawing, with relevant dimensions_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Airport%20Layout%20Drawing%202.png" width="500"> 
+
+**Figure 13:** _Airport Layout Drawing, with detailed view_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
@@ -111,55 +123,61 @@ In this repository, we provide the Solidworks files that accompany the paper tit
 <p align="left">
 <img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Launch%20Site%20Top%20View.png" width="500"> 
 
-**Figure 12:** _Launch Site, top view_.
+**Figure 14:** _Launch Site, top view_.
 </p>
 
 <p align="left">
 <img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Launch%20Site%20Isometric%20View.png" width="500"> 
 
-**Figure 13:** _Launch Site, isometric view_.
+**Figure 15:** _Launch Site, isometric view_.
 </p>
 
 <p align="left">
 <img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Launch%20Site%20Isometric%20View%202.png" width="500"> 
 
-**Figure 14:** _Four Launch Pads, isometric view_.
+**Figure 16:** _Four Launch Pads, isometric view_.
 </p>
 
 <p align="left">
 <img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Launch%20Pad%20Isometric%20View.png" width="500"> 
 
-**Figure 15:** _Individual Launch Pad, isometric view_.
+**Figure 17:** _Individual Launch Pad, isometric view_.
 </p>
 
 <p align="left">
 <img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Launch%20Pad%20Side%20View.png" width="500"> 
 
-**Figure 16:** _Individual Launch Pad, side view_.
+**Figure 18:** _Individual Launch Pad, side view_.
 </p>
 
 <p align="left">
 <img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Launch%20Pad%20Top%20View.png" width="500"> 
 
-**Figure 17:** _Individual Launch Pad, top view_.
+**Figure 19:** _Individual Launch Pad, top view_.
 </p>
 
 <p align="left">
 <img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Launch%20Pad%20Tower.png" width="500"> 
 
-**Figure 18:** _Individual Launch Pad Tower, top view_.
+**Figure 20:** _Individual Launch Pad Tower, top view_.
 </p>
 
 <p align="left">
 <img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Launch%20Pad%20Tower%202.png" width="500"> 
 
-**Figure 19:** _Individual Launch Pad Tower, side view_.
+**Figure 21:** _Individual Launch Pad Tower, side view_.
 </p>
 
 <p align="left">
 <img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Spaceport%20Terminal%20and%20Hangars.png" width="500"> 
 
-**Figure 20:** _Four Rocker Hangars and Maintenance Facilities, top view_.
+**Figure 22:** _Four Rocker Hangars and Maintenance Facilities, top view_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Launch%20Site%20Layout%20Drawing.png" width="500"> 
+
+**Figure 23:** _Launch Site Drawing, with relevant dimensions_.
 </p>
 
 ([ back to top ](#back_to_top))
@@ -175,13 +193,19 @@ In this repository, we provide the Solidworks files that accompany the paper tit
 <p align="left">
 <img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Combined%20Air%20%26%20Spaceport%202.png" width="500"> 
 
-**Figure 21:** _Combined Layout, top view_.
+**Figure 24:** _Combined Layout, top view_.
 </p>
 
 <p align="left">
 <img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Combined%20Air%20%26%20Spaceport.png" width="500"> 
 
-**Figure 22:** _Combined Layout, isometric view_.
+**Figure 25:** _Combined Layout, isometric view_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Full%20Layout%20Drawing.png" width="500"> 
+
+**Figure 25:** _Combined Layout Drawing, with relevant dimensions_.
 </p>
 
 ([ back to top ](#back_to_top))
