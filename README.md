@@ -139,7 +139,7 @@ In this repository, we provide the Solidworks files that accompany the paper tit
 </p>
 
 <p align="left">
-<img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Launch%20Pad%20Side%20View.png" width="500"> 
+<img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Launch%20Pad%20Top%20View.png" width="500"> 
 
 **Figure 17:** _Individual Launch Pad, top view_.
 </p>
