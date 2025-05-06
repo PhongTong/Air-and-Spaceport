@@ -127,7 +127,7 @@ In this repository, we provide the Solidworks files that accompany the paper tit
 </p>
 
 <p align="left">
-<img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Launch%20Site%20Isometric%20View%202.png" width="500"> 
+<img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Launch%20Pad%20Isometric%20View.png" width="500"> 
 
 **Figure 15:** _Individual Launch Pad, isometric view_.
 </p>
