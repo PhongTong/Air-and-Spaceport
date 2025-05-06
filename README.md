@@ -57,39 +57,45 @@ In this repository, we provide the Solidworks files that accompany the paper tit
 </p>
 
 <p align="left">
+<img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Airport%20Top%20View%202.png" width="500"> 
+
+**Figure 5:** _Airport Layout, another top view_.
+</p>
+
+<p align="left">
 <img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Central%20Area.png" width="500"> 
 
-**Figure 5:** _Airport Central Area, isometric view_.
+**Figure 6:** _Airport Central Area, isometric view_.
 </p>
 
 <p align="left">
 <img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Airport%20Terminal.png" width="500"> 
 
-**Figure 6:** _Airport Terminal, isometric view_.
+**Figure 7:** _Airport Terminal, isometric view_.
 </p>
 
 <p align="left">
 <img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Fuel%20Tanks.png" width="500"> 
 
-**Figure 7:** _Airport Fuel Tanks_.
+**Figure 8:** _Airport Fuel Tanks_.
 </p>
 
 <p align="left">
 <img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Hangar%203.png" width="500"> 
 
-**Figure 8:** _Airport Hangar and Cargo Terminal_.
+**Figure 9:** _Airport Hangar and Cargo Terminal_.
 </p>
 
 <p align="left">
 <img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Runway.png" width="500"> 
 
-**Figure 9:** _Airport Runway_.
+**Figure 10:** _Airport Runway_.
 </p>
 
 <p align="left">
 <img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Spaceport%20Terminal.png" width="500"> 
 
-**Figure 10:** _Spaceport Terminal, isometric view_.
+**Figure 11:** _Spaceport Terminal, isometric view_.
 </p>
 
 ([ back to top ](#back_to_top))
@@ -102,6 +108,60 @@ In this repository, we provide the Solidworks files that accompany the paper tit
 
 **CAD Model Name:**  The CAD files for the launch site can be found in the [Air & Spaceport](https://github.com/andyeske/Air-and-Spaceport/tree/main/CAD%20Files/Air%20%26%20Spaceport) folder, within the [CAD Files](https://github.com/andyeske/Air-and-Spaceport/tree/main/CAD%20Files) folder. The CAD files for the Starship and Super Heavy can be found in the NASA RASC-AL Challenge Project [MARTEMIS](https://github.com/andyeske/MARTEMIS) GitHub page.
 
+<p align="left">
+<img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Launch%20Site%20Top%20View.png" width="500"> 
+
+**Figure 12:** _Launch Site, top view_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Launch%20Site%20Isometric%20View.png" width="500"> 
+
+**Figure 13:** _Launch Site, isometric view_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Launch%20Site%20Isometric%20View%202.png" width="500"> 
+
+**Figure 14:** _Four Launch Pads, isometric view_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Launch%20Site%20Isometric%20View%202.png" width="500"> 
+
+**Figure 15:** _Individual Launch Pad, isometric view_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Launch%20Pad%20Side%20View.png" width="500"> 
+
+**Figure 16:** _Individual Launch Pad, side view_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Launch%20Pad%20Side%20View.png" width="500"> 
+
+**Figure 17:** _Individual Launch Pad, top view_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Launch%20Pad%20Tower.png" width="500"> 
+
+**Figure 18:** _Individual Launch Pad Tower, top view_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Launch%20Pad%20Tower%202.png" width="500"> 
+
+**Figure 19:** _Individual Launch Pad Tower, side view_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Spaceport%20Terminal%20and%20Hangars.png" width="500"> 
+
+**Figure 20:** _Four Rocker Hangars and Maintenance Facilities, top view_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
@@ -110,7 +170,19 @@ In this repository, we provide the Solidworks files that accompany the paper tit
 
 **Description:** Combined Airport and Launch Site layout. The proposed layout can accomodate 42 aircraft (as large as the B787-9) simultaneously (20 jetway positions + 22 remote stands) as well as 4 rockets (as large as the Starship + Super Heavy).
 
-**CAD Model Name:** The combined Air & Spaceport CAD files can be found in the [Air and Spaceport Assembly](https://mitprod-my.sharepoint.com/:f:/g/personal/andyeske_mit_edu/EpxZtfAv5yBAuZaYf-JGhFMBNGbF7ml8NkPc2qx_Aw5UCQ?e=Wnes5n) folder, which is external to the Github due to the file weight. This folder contains the main assembly of the combined site, titled Air and Spaceport Assembly.SLDASM, and consists of the CAD parts shown in Sections 1 through 3 of this repository..
+**CAD Model Name:** The combined Air & Spaceport CAD files can be found in the [Air and Spaceport Assembly](https://mitprod-my.sharepoint.com/:f:/g/personal/andyeske_mit_edu/EpxZtfAv5yBAuZaYf-JGhFMBNGbF7ml8NkPc2qx_Aw5UCQ?e=Wnes5n) folder, which is external to the Github due to the file weight. This folder contains the main assembly of the combined site, titled Air and Spaceport Assembly.SLDASM, and consists of the CAD parts shown in Sections 1 through 3 of this Github repository.
+
+<p align="left">
+<img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Combined%20Air%20%26%20Spaceport%202.png" width="500"> 
+
+**Figure 21:** _Combined Layout, top view_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Combined%20Air%20%26%20Spaceport.png" width="500"> 
+
+**Figure 22:** _Combined Layout, isometric view_.
+</p>
 
 ([ back to top ](#back_to_top))
 
