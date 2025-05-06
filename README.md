@@ -6,9 +6,9 @@ In this repository, we provide the Solidworks files that accompany the paper tit
 ### Table of Contents
 
 1. [ Jetway ](#jetway)
-2. [ Airport ](#airport)
-3. [ Launch Site ](#launch)
-4. [ Air & Spaceport ](#airspace)
+2. [ Airport Layout ](#airport)
+3. [ Launch Site Layout ](#launch)
+4. [ Air & Spaceport Layout ](#airspace)
 
 ---
 <a name="jetway"></a>
@@ -42,9 +42,9 @@ In this repository, we provide the Solidworks files that accompany the paper tit
 
 ---
 <a name="airport"></a>
-### 2: Airport
+### 2: Airport Layout
 
-**Description:** Proposed airport design for the "Air & Spaceport" concept. The CAD model for the airport constitutes a medium-fidelity level of detail, including features such as a maintenance hangar, cargo terminal, central transportation hub, and fuel tanks, but lacking building interiors. Much of the tarmac design was inspired from pictures of Boston Logan, while the airport terminal itself resembles no particular airport.
+**Description:** Proposed airport layout design for the "Air & Spaceport" concept. The CAD model for the airport constitutes a medium-fidelity level of detail, including features such as a maintenance hangar, cargo terminal, central transportation hub, and fuel tanks, but lacking building interiors. Much of the tarmac design was inspired from pictures of Boston Logan, while the airport terminal itself resembles no particular airport.
 
 **Recording:** https://www.youtube.com/watch?v=7krY4PoerCE.
 
@@ -53,13 +53,13 @@ In this repository, we provide the Solidworks files that accompany the paper tit
 <p align="left">
 <img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Airport%20Layout%20Drawing.png" width="500"> 
 
-**Figure 4:** _Airport Layout Drawing, with relevant dimensions_.
+**Figure 4:** _Airport Layout Drawing, with relevant dimensions. Editable drawing (CAD) files can be found in the [following](https://mitprod-my.sharepoint.com/:f:/g/personal/andyeske_mit_edu/Evdvn1Z5iOVGoowMZKRQzMIBURdBDHj2rhjjvFq25omrYg?e=Orcv1N) folder_.
 </p>
 
 <p align="left">
 <img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Airport%20Layout%20Drawing%202.png" width="500"> 
 
-**Figure 5:** _Airport Layout Drawing, with detailed view_.
+**Figure 5:** _Airport Layout Drawing, with detailed view. Editable drawing (CAD) files can be found in the [following](https://mitprod-my.sharepoint.com/:f:/g/personal/andyeske_mit_edu/Evdvn1Z5iOVGoowMZKRQzMIBURdBDHj2rhjjvFq25omrYg?e=Orcv1N) folder_.
 </p>
 
 <p align="left">
@@ -114,7 +114,7 @@ In this repository, we provide the Solidworks files that accompany the paper tit
 
 ---
 <a name="launch"></a>
-### 3: Launch Site
+### 3: Launch Site Layout
 
 **Description:** Proposed layout for the launchsite, inspired heavily from the [Launch Complex 39](https://d6qyz3em3b312.cloudfront.net/upload/images/media/2019/02/02/VAB_Aerial_-_GPN-2000-000869.2048x1024.jpg) at the Kennedy Space Center. Safety distance thresholds for the blast over pressure zones were extracted from the [following](https://www.reddit.com/r/nasa/comments/kawgel/figured_some_viewers_would_be_interested_a_map_of/#lightbox) source, while the launch pads themselves resemble [39A](https://upload.wikimedia.org/wikipedia/commons/a/ac/LC39A_and_LC39B.jpg) and 39B.
 
@@ -123,7 +123,7 @@ In this repository, we provide the Solidworks files that accompany the paper tit
 <p align="left">
 <img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Launch%20Site%20Layout%20Drawing.png" width="500"> 
 
-**Figure 14:** _Launch Site Drawing, with relevant dimensions_.
+**Figure 14:** _Launch Site Drawing, with relevant dimensions. Editable drawing (CAD) files can be found in the [following](https://mitprod-my.sharepoint.com/:f:/g/personal/andyeske_mit_edu/Evdvn1Z5iOVGoowMZKRQzMIBURdBDHj2rhjjvFq25omrYg?e=Orcv1N) folder_.
 </p>
 
 <p align="left">
@@ -184,7 +184,7 @@ In this repository, we provide the Solidworks files that accompany the paper tit
 
 ---
 <a name="airspace"></a>
-### 4: Air & Spaceport
+### 4: Air & Spaceport Layout
 
 **Description:** Combined Airport and Launch Site layout. The proposed layout can accomodate 42 aircraft (as large as the B787-9) simultaneously (20 jetway positions + 22 remote stands) as well as 4 rockets (as large as the Starship + Super Heavy).
 
@@ -193,7 +193,7 @@ In this repository, we provide the Solidworks files that accompany the paper tit
 <p align="left">
 <img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Full%20Layout%20Drawing.png" width="500"> 
 
-**Figure 24:** _Combined Layout Drawing, with relevant dimensions_.
+**Figure 24:** _Combined Layout Drawing, with relevant dimensions. Editable drawing (CAD) files can be found in the [following](https://mitprod-my.sharepoint.com/:f:/g/personal/andyeske_mit_edu/Evdvn1Z5iOVGoowMZKRQzMIBURdBDHj2rhjjvFq25omrYg?e=Orcv1N) folder_.
 </p>
 
 <p align="left">
