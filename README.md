@@ -7,7 +7,8 @@ In this repository, we provide the Solidworks files that accompany the paper tit
 
 1. [ Jetway ](#jetway)
 2. [ Airport ](#airport)
-3. [ Air & Spaceport ](#airspace)
+3. [ Launch Site ](#launch)
+4. [ Air & Spaceport ](#airspace)
 
 ---
 <a name="jetway"></a>
@@ -47,7 +48,7 @@ In this repository, we provide the Solidworks files that accompany the paper tit
 
 **Recording:** https://www.youtube.com/watch?v=7krY4PoerCE.
 
-**CAD Model Name:** The CAD files for the airport can be found in the [Airport Assembly](https://mitprod-my.sharepoint.com/:f:/g/personal/andyeske_mit_edu/EgczOnLIbxFBkocVdgd9WSYBuAGLBS77wR-opz6xtKQz4Q?e=bSjd7i) folder, which is external to the Github due to the file weight. Besides the Jetway Assembly from above, the airport assembly consists of seven subcomponents: Airport Tarmac.SLDPRT, Airport Terminal.SLDPRT, Cargo.SLDPRT (for the Cargo Terminal), Hangar.SLDPRT, Hub.SLDPRT (for the central terminal node), Platform.SLDPRT (for the remote stands), and Spaceport.SLPRT. The design aircraft for the airport is the 787-9 (ICAO 4D classification). All the relevant dimensioning and separation standards were extracted from the ICAO's [Annex 14](https://github.com/andyeske/Air-and-Spaceport/blob/main/Documents/ICAO%20Annex%2014.pdf) and Document 9157 [Part 1](https://github.com/andyeske/Air-and-Spaceport/blob/main/Documents/ICAO%20Doc%209157%20-%20Part%201.pdf) and [Part 2](https://github.com/andyeske/Air-and-Spaceport/blob/main/Documents/ICAO%20Doc%209157%20-%20Part%202.pdf), as elaborated in the paper.
+**CAD Model Name:** The CAD files for the airport can be found in the [Airport Assembly](https://mitprod-my.sharepoint.com/:f:/g/personal/andyeske_mit_edu/EgczOnLIbxFBkocVdgd9WSYBuAGLBS77wR-opz6xtKQz4Q?e=bSjd7i) folder, which is external to the Github due to the file weight. Smaller-sized CAD files can be found in the [Airport](https://github.com/andyeske/Air-and-Spaceport/tree/main/CAD%20Files/Airport) folder, within the [CAD Files](https://github.com/andyeske/Air-and-Spaceport/tree/main/CAD%20Files) folder. Besides the Jetway Assembly from above, the airport assembly consists of seven subcomponents: Airport Tarmac.SLDPRT, Airport Terminal.SLDPRT, Cargo.SLDPRT (for the Cargo Terminal), Hangar.SLDPRT, Hub.SLDPRT (for the central terminal node), Platform.SLDPRT (for the remote stands), and Spaceport.SLPRT. The design aircraft for the airport is the 787-9 (ICAO 4D classification). All the relevant dimensioning and separation standards were extracted from the ICAO's [Annex 14](https://github.com/andyeske/Air-and-Spaceport/blob/main/Documents/ICAO%20Annex%2014.pdf) and Document 9157 [Part 1](https://github.com/andyeske/Air-and-Spaceport/blob/main/Documents/ICAO%20Doc%209157%20-%20Part%201.pdf) and [Part 2](https://github.com/andyeske/Air-and-Spaceport/blob/main/Documents/ICAO%20Doc%209157%20-%20Part%202.pdf), as elaborated in the paper.
 
 <p align="left">
 <img src="https://github.com/andyeske/Air-and-Spaceport/blob/main/Sample%20Figures/Airport%20Top%20View.png" width="500"> 
@@ -94,12 +95,22 @@ In this repository, we provide the Solidworks files that accompany the paper tit
 ([ back to top ](#back_to_top))
 
 ---
+<a name="launch"></a>
+### 3: Launch Site
+
+**Description:** Proposed layout for the launchsite, inspired heavily from the [Launch Complex 39](https://d6qyz3em3b312.cloudfront.net/upload/images/media/2019/02/02/VAB_Aerial_-_GPN-2000-000869.2048x1024.jpg) at the Kennedy Space Center. Safety distance thresholds for the blast over pressure zones were extracted from the [following](https://www.reddit.com/r/nasa/comments/kawgel/figured_some_viewers_would_be_interested_a_map_of/#lightbox) source, while the launch pads themselves resemble [39A](https://upload.wikimedia.org/wikipedia/commons/a/ac/LC39A_and_LC39B.jpg) and 39B.
+
+**CAD Model Name:**  The CAD files for the launch site can be found in the [Air & Spaceport](https://github.com/andyeske/Air-and-Spaceport/tree/main/CAD%20Files/Air%20%26%20Spaceport) folder, within the [CAD Files](https://github.com/andyeske/Air-and-Spaceport/tree/main/CAD%20Files) folder. The CAD files for the Starship and Super Heavy can be found in the NASA RASC-AL Challenge Project [MARTEMIS](https://github.com/andyeske/MARTEMIS) GitHub page.
+
+([ back to top ](#back_to_top))
+
+---
 <a name="airspace"></a>
-### 3: Air & Spaceport
+### 4: Air & Spaceport
 
-**Description:** To be added.
+**Description:** Combined Airport and Launch Site layout. The proposed layout can accomodate 42 aircraft (as large as the B787-9) simultaneously (20 jetway positions + 22 remote stands) as well as 4 rockets (as large as the Starship + Super Heavy).
 
-**CAD Model Name:** To be added. The CAD files for the Starship and Super Heavy can be found in the NASA RASC-AL Challenge Project [MARTEMIS](https://github.com/andyeske/MARTEMIS) GitHub page.
+**CAD Model Name:** The combined Air & Spaceport CAD files can be found in the [Air and Spaceport Assembly](https://mitprod-my.sharepoint.com/:f:/g/personal/andyeske_mit_edu/EpxZtfAv5yBAuZaYf-JGhFMBNGbF7ml8NkPc2qx_Aw5UCQ?e=Wnes5n) folder, which is external to the Github due to the file weight. This folder contains the main assembly of the combined site, titled Air and Spaceport Assembly.SLDASM, and consists of the CAD parts shown in Sections 1 through 3 of this repository..
 
 ([ back to top ](#back_to_top))
 
