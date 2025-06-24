@@ -1,5 +1,5 @@
 # Layout Design of an Intermodal Air & Space Port for 2050 Operations
-In this repository, we provide the Solidworks files that accompany the paper titled "Layout Design of an Intermodal Air & Space Port for 2050 Operations". Individual CAD models are available in the [CAD Files](https://github.com/andyeske/Air-and-Spaceport/tree/main/CAD%20Files) folder.
+In this repository, we provide the Solidworks files that accompany the paper titled "[Layout Design of an Intermodal Air & Space Port for 2050 Operations](https://github.com/andyeske/Air-and-Spaceport/blob/main/Documents/Layout%20Design%20of%20an%20Intermodal%20Air%20%26%20Space%20Port%20for%202050%20Operations.pdf)". Individual CAD models are available in the [CAD Files](https://github.com/andyeske/Air-and-Spaceport/tree/main/CAD%20Files) folder.
 
 ## CAD Models
  
